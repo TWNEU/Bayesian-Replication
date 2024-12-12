@@ -1,2 +1,0 @@
-load("/Users/everestwang/BayesianProject/Objects/fdr_sim.RDS")
-load("/Users/everestwang/BayesianProject/Objects/posterior_over_time.RDS")
